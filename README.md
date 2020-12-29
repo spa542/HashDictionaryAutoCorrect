@@ -22,9 +22,9 @@ proceed with using ./main in order to run the program.
 Follow the Makefile instructions above to run the program without any manual work. If 
 not using Makefile, then you must compile the .cpp files into .o files. 
 (g++ -c main.cpp) Then you mus tlink those with a final compilation all while labeling
-the output file as hashdict.
-**You must use -std=c++11 within your compilation steps**
-**Example english.txt file needs specific format**
+the output file as hashdict.\
+**You must use -std=c++11 within your compilation steps.**\
+**Example english.txt file needs specific format.**
 <br /> <br />
 ## english.txt Format:
 *START OF FILE*\
